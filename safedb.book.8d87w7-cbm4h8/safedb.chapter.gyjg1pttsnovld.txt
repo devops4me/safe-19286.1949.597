@@ -1,0 +1,16 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := 8d87w7-cbm4h8
+Time Created := Mon Oct 7 21:35:49 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+WvA3FUUnIOMjqmjMgERMzw7ytheSwQb1vU9I9m2ExtpcLv/wJm8gdag277fd
+ettD9N3mavLBEMciiqOFL1f40R+ty3XfMGRysQZHLJU8O5OV2mhf/7NyIsTQ
+zDfC4a/g1CdokwIVjbXumS8oKoBoKPdxWAHUyO8MNnbo1wfsDrc=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
