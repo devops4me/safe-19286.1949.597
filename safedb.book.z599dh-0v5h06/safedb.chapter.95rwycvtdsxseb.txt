@@ -1,0 +1,47 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Wed Aug 7 18:06:48 2019
+Safe Version := safedb-v0.6.1019
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+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
+2muT6O5SL9GU70VY4uJMGk53Tg==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

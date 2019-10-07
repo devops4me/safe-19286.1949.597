@@ -1,0 +1,22 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := hdcbzw-7x89bm
+Time Created := Thu Aug 29 10:23:31 2019
+Safe Version := safedb-v0.6.1025
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+itYqOlkboMZaCTQYf4OVL8+cMFwWWXj6F2l9SGQWaKGUnLBUAmpO3giRLdBG
+zRv8D4PwlYv1V9mXh5LQcPOrQatPG7KlIopluOzCWqdwz2kjHnBeDO/huIA1
+Yq9icCn3gPiewvvcQugLenVsHvmv8xd53U5rL9mmSJqZ+MfQVmv3pZybIV/3
+Zg8nlSkoLcBL3tsQzrfiiZnmr9CAtcPBxuk/s8BayELtwkzBbQi63Wj48RYn
+l6pcin7Tmv90MjYR7n7ZaBbr+DN3R4X163AP6zzO8vtIQUEzeIcMFz5koHtW
+KG5FDTcXTl1wO5MgWuxPn01qSwKxahTaNoe9rghKDn+lbuTbdcUWzd9qN9Bg
+myQNHQRKYYDjl8aulYKOTG3PpSkv2q470bj6JRqmcmK5iOZBC/ZgdhS9wbt7
+II4gsjJGoDn5s1bOcTvn47TXThhRL5/p6dMdSwU7bnfp2VCeajp74bseCOkx
+hN9lrY4pNRM=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

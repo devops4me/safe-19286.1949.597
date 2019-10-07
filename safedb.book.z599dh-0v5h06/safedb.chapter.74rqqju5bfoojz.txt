@@ -1,0 +1,37 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Thu Aug 29 10:18:38 2019
+Safe Version := safedb-v0.6.1025
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+Z9JNJbF2+HZ9W8rjuSvhIa11I+HtZqhDEI6BhgI23vHrACWIRO+AAINFmoJT
+ka6mppoRH0LSPGNDwqx6uxNZfjBTrHNIOwpXg8bpZdvrfQ1WGfzXRwqsgx0y
+EAK/Z9zSq/jepGTmicLYNifSAJH71QXAlNLRVpet3oiItY8f1KFzI76/nmN4
+4wl9sKre4dXdgjtHDK2Q7nkoupabKs4gqVqqgBAo456TYlCp+hqBjPQ9pZPJ
+IKraywAAnOWdVuUbIJjWtUUrAIs4GaiMl3c7MKR17IEwV4FY1SNjjlET6UWj
+6RSauuvLoR2Hqsa9/tPTfbHbBrIXwWXPYBKLHB3jpvn+kaFHjbf2X2zE9Afe
+2QPAk5yh6eLVQsIXzaFZdL4CkIht9JGb6Q5k9V04AdcgJs7tU77GzwvS7bPC
+b7a+pGq51OiuBFkK/54LyP9mlXjV4KNrdTTZKSx9dx0ygg1tKYWIdemotZHf
+a1yP+kHwywLm32aQ+fvnecW/Aiy5nixoHVrQr9oF7jZapV5rmXjFMGGm0jVA
+FOiVXyCVthXceDl/Wj0+O5/povPOTHHV2lBBl1cEm+sahwSOVz4L6uP6NpJf
+5pLJv8jZjVfC/lNJ4cuu+nYLq3G9RBui7UiU7PiJs0veO4uABv4mWw6BwJM5
+4ZTmtBJ9h5NtTfyXeo1yoK475D1QHIoQhlX5TE+MaD+gYPfs+Tc4N7edmUOj
+O+nbGdz4lxyB1tw/aj+4XIjyn2cd3OTYrhi3hqhi8UoEXwT4FovA1LaI0ZHN
+GjFCAFvu7Rjv7Okp9/Re/tv7ETWJeeBM75yLB3O0dcrOsLyn9ckCWqB6U/9e
+hY63IdQIsGMV4EdeBVdiqOgQy+uvpVneaO/YbwRN6flYUAU3S6COHmVoyb09
+Xs07bA8SgEVzXsnBdx6wNn6MCdCfH8mkvDjUVWZ6nSThS4GkDjVHon1u9U2o
+NCQdueCUV8xpaL/FGrncQwsryBRtsmmaxtJQJOXStQW8fSRnkVQ7iFcJjDP1
+Du0Cd9BQFtReUHZSw/EkOGP7O4V4CdKv+LonGmjCAGBcCOAAFTXs0M8Z++B5
+2td5Gh9bT6A2vwNILYhHwSPdtqBm6zGamK8vS222TJ2FVw4ZP8tCY6m0O2AJ
+el3cX9pXi7tsOg5VtfAhoMSOHudWX2BBEf+j4zoNKkFFy1joV9xQiKh0oKdH
+rNVssA/v53JI7ExYNAEnEB5ncEpSYn/STUiNE6/5xzxVTcUoepTNmSGn6rai
+kqlH5MFVsmxWiuwzOeRmhmzsgce844+4Gvqmvj4mH4N3dz1aYlvPFVhKxvI9
+X5e9gWGH7b5XXp5s66avqXxseBhggC5PYNpvcgnsx1cZMdnAxmw+hK9K5MwM
+ixxLjI4=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

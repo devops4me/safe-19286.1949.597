@@ -1,0 +1,17 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Mon Jun 3 12:21:52 2019
+Safe Version := safedb-v0.6.1010
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+rZRUo0ZWkHzTYPgudKGQIfsZG36qtKOqlL7zNa/7nVpCJNxgJ3+FJTNCsVYV
+niA5DWA15bHjCji8KAe/fa7yVhhPpeyc1PdZNInTHFKVyKY0N4LYXTk3pdGy
+SxXdxi1QuB9aR4BpmTx15haNOe7N+HITG2vwdLjIX9Rxd3hG/aG7z4KgnBrI
+/9pe5wS6vmCc
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

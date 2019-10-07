@@ -1,0 +1,40 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Wed Aug 7 18:06:48 2019
+Safe Version := safedb-v0.6.1019
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+Fule1QMC9p9Agf556ndJv6vIxqRlqW6dVkM9xAQOBS0ALJSnJ31PdvIaKahN
+6pM4/vOU3ba2Dxq13Zuq1ad3m8fhbVreqFW+I2FAWRHhdubGN8CyHsYwrXcn
+UpW+xdU7Rg5Lo+Ipllmv9iLWB8iWANs2C4BymDOLk4aBuMdWDmOXiK8sApjC
+rcgKSxuYoqK6T3f+wm6GTNH64WaDS0VDqeSqdfXuCDhKf+S0VDqnKD2jID+z
+R63l/YpLMfSGZs/DBdD6VLGNwNgg+mJEuWYeaSsCce1ECHH+eHSUa8Ccs5Gq
+gGjqzXYjeIFrWfTvf8WrcOOpF0vFwDq9uJH3myDJz1fcDVtgZUlycZw/STFs
+j4V65tS+5D0M+o2E3dciZpTQZ731O49TjLOV223LLH8Ixhju7Sb7YWKSKm3b
+8yun3G9SrasM/u1pHGEVw4D8mkTAAEeObCbpR+aCsjf87IKBfRHeDBtLKVgN
+3KuZONU52DmcD0lRMM/dZcYFfPn9ZmoPMZ1I7jQTyeJQk0qdHJEpFvlnp8fD
+okqexvMStqm7Raie/pqp2iZekBDYAam04Tg7qc40N+8gfdbgvV+mEakWn4FF
+2Bj8E3lnHFkh8O1KuYinDwpTeYP9vg+i7u+YZGSHrb2clWmVvEz1YEwz4k7a
+qXYygQPSz6O3E5c/WT9oYcmb0PHY4/3+EEn5ztUY/kLGCl7yMVKPPVSH/A1b
+YTC4J2WQkH/3gu0tp8keY97uX5BZ3b2QvBUZWSPh1mVadRjuCjtolPptvNmZ
+UFo06zAjh33OvXefox1KupWuH9UhWGZrQF6x7p3btc74kFS6QhnC8YTNyE70
+qb5CNAmuo/piqzOTb8pxeuH4x/WyalA2B0+6pHyU8ODwhnbc/0CRE0/lK86s
+IPeuSvNStS8c6lhXvEHG2PEG461dEo0YL5eF9K1HGAFQUDhY9bioqWQy7CLv
+iaxxRCQBz97hB07kNxyACKzzSDR65mlLNmf7MEFaY4he8xjH+JHo816o/XBO
+CXdUc9URG6kJJCDvcAinT2ZtfC8CMbKOP7bh1y+66QFMYPOGTLzouNDh/Eh0
+tRkqpwPmlMf7qWOQip2rHMsIcMIWlegAwj9ouKtJpK1ImyIbEk5w957Hr3CM
+7BuPULQZwHq+8StlssTNWBSdUlf/A8T/B8kOoxERle0CMBStvL8GIhR4j3GO
+/+Vo+/HFar0iEwvbXxcY3fPHP2hS9J1f1ZAtHEBwAD6U4B6DntbZfEsvRtDl
+KX85HBWvEQF4l0SLy9VQehKimp6g7NZl7wEUFRvNtIlW96HBWgTdqbnOZ5PS
+eAMcIwRhJbDwo/clcKAb/mJ/Pb3YA6pXDoD7DjHqXou4BPnLgR0YqSLT1DPt
+ug9Ib9918Of5bErwQz/0sLdTaeoWG+JTELZXsabH1ideeP76xTNAVHLrd4x4
+dq+QmfsfxOsFKF7EdqoI6ICmr2NtgDXOTaF7XDUFwZDvxj6ddGpsXppGqAWa
+flx8v0Jszf8ktvA1bMyxpjRq38o/03YMmbLCnUMlBBe4I4zuKp+NtOpM1Z2p
+5FYgRLjpxytIgvq0Mrsz+sJ6+VP+wUv3cPxe38f9
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
