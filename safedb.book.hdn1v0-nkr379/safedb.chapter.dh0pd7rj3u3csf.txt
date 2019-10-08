@@ -1,0 +1,21 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := hdn1v0-nkr379
+Time Created := Tue Oct 8 00:10:31 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+rytlEe1mNU6WUmee5Q2fg3AE/5FoMaNZfsaxjhvipKvHtDIIsZf8GhfcIj6M
+F0GOBUoGyF1MLd0cQLAPDmAwqKk4xdq7Ys2VrANC8JXtT82yr+aiIKGMY2tY
+2YaXL8Ae8d+QnUCoSMCWEaCfwxrJrLw1wD6iKlXFqxeJgaSH1/wbPwb5swBg
+0KLTSKh+jCodt9Qr1mchXKVUFKtu8BqcExe/j3L0LwW6J882VuEUXaAz+Oiz
+cFg2ov9LbNdWEEpeDQED3REiybsL9fRf7OOVHLViDKwIV72/swJ9xPXJWbGL
+EajsvmdRbqWbItRkD7WD2wosU/r29iHrfvlhb/xHJz1YvHztN7DlPasIAGzV
+ePPOcTsDBAj6U4welI5bi4CtGwI3O2ozktyahWxMFEX9cgP9YtCXo/OBc0qV
+P4A7DvFa4ABCYAX9hs06wEdJAqomyyM9P91sodv+E45nAirE/Q==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
