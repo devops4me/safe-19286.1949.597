@@ -1,0 +1,38 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Wed Oct 9 23:03:12 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+r8rRZQ+f1AIWDneZ6huRrUWQLBT15H0WOTJXFZDKmh46bMuP588LvGWB9vxJ
+OrS0fzwR5amrD4UqAReNsYuAW4UjKoT6+NOA2uB5Gi1RV/Tlw+r1YThuUQ+j
+yitClL2++h9+u7EVT9bxztWH59YQZJoT4ItnegZUSFUDmhoeSFhbwBHnmk5p
+uqm9NC8belGE2uXQoBtuyy7mdNpZWT2houbGH9FeekuJRpYqo4aUDBtarKwA
+f/uNMPMUojRFk2QXSlZyrPh8UFXCP3yliHaiOq1SJBJsAnFCIruLm5XVMa8/
+MfYzHgt9B8xrPb8rXlfKE0aLeDplpJzlVYzDpuem3gXMA8WAp2ITvKGTax9a
+1DMHpKw3r0H5p34erXfSVlD66tEZ9U8m2oWNk7TQOtgBV64V8fJQVqEK4weh
+Z2ojXcKlO5Utt1ttYBaJ92SLm8DdGZarfxHvuncEEOFMUYX9AAE668AXOD64
+eAgRSooTTLIOiiqvnTWHTIRK9ZfEbKxrI4aAaVZqgIJBXQPy1tq75PPsLBLV
+0byiYkeDEUV0Sz2gJpzejwjytBQ3Gp+W7fRHYmBYIkmbS26NJdAKS0Mzkf5f
+XbZa4XucAWb6PyG163M8rNDAF+H50fmHH10TRMLipdIiNSyqGQxCwyILI84z
+CFsDeVcvOTNWzzBzZSRbDc6FvMF8MCRaVZBeCvDhuW/KkpdWcIIbucVpBTIN
+Na8gEOIms+ysqssfCK6jQXAW44pph93Ksosq7O43pJS1C+oR2OjZVmOvHIlc
+8zLz/MwLBYddsR7gJvHrTuxo3Weq3gUL9Ad3HgYtLQ+7pr2/accIOs16Iunx
+H3IknQPus05QEFdemmuImI4kezBcfb/j05Uah8teDw5So8Uyw5e4H6d8cv18
+WjkN0bnikDgk48ntd56B45iqDIUFy1pO/L4lNuw27a9jp4RD+TBhO0DEVvpg
+skuLqhg10q6HboPtDpNTiM0of7tAlqUxRo6ELVeiStXWbU6t1mxBgkZQM8F3
+uQhnORO0mLDvUAHkd8idUeQUvVybj0eIuF5qM2U3B+ES9Vx4p7Nata73Kzxv
+91uINRoAJtXOBe6aqmUbdqJ95DpO5TjQaWa189WOUoPg16bupSlQcykjObzU
+Kj3nGiLIIrJJWxkyJeiQg1sWTBPELYd27Vep7G1i2o2x1uzr/Ldhg26DHuLF
++653wuzaJ+X7N7SLZywl1opYwe8FGjZF6Mbk7BKkrEIXdm7p3DG5MeArvGpo
+iL51Wd6cDB6f0Hka7ebCVYbEGv4BYlwzpX2jcsQPaDibLaFubrLdOPjb3lnG
+Ng8AWyIF3mIrGlfFk79PevO48OOsxHc7/gH2Og+E56J/dcT2wXggR3Jzl/0W
+r2PSlqst7nZ0TutwAaYx9RYu/Qdmvo8D6gDyEvm2vEMohwMHLhl/kWBjGQ/D
+KAudRtjGJrqNwzco3XVDKPGJQJDRKjlC
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
