@@ -1,0 +1,38 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Sat Oct 12 20:12:42 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+JEIbZ/ikbl1kcuaELa1p9jpROsmijKWKHCrK4MmpyNkrt0nJgEDf2Y5565yw
+ud1kM1AzWWLulu4XiKzIqwtuYg/BntJQyLpo69ZvHUARxt9yjcB7KfqrA76g
+l2NGnBtqA7SuTAzakoI4o1KaolKsGPlfM7+2FUemQ2QCO3AxT1pRr1F0qli9
+CjllKgM8dbEkCZXnKtKBM8FzcFJF2Plk7QJqdB/iMKvLwZQ+nIiOTimT6RNP
+kZC9FZaoIM1PqXMBM/6FNZTDqbQBPZ6VWX5VlcOKt5QE63UTy1EJZ9GJzfvp
+S3G6MHqVCHfY0oBYjjboCvE3d1LSNLXNJDC4HE1lI9hx/eMMbIc27qb/yI6s
+Js8wM0Gx1U4fCD2VQGDgnytsvVKYtcZ+y/OzBSlBM0hUZZOxc/JROH0+vxOP
+Zg1awR1q5deHzlUF+qfZZ4o99/73iVcMLv344jFtgi1YF5YKXbiRbxyT+CbN
+LTVMnbjO38ugSz+bkUJL9zR3rn6+CmUr0Y9+1R0p+YKSozDugVV8XCMajcOC
+4s+YF/b618EWeV17RrYTH4J15+E/e6KfC1nu0WHNK2UPmbxA2wkXwSreo+BG
+z+J9js3tJBlkShDoQo47EgmmE+kBa5aVNW9o/m8qdsYWotB9JLQaOAskmuoI
+18YG12An2aLp0pzHs+AzN3b0oMJpN9u8ek4eTFuEb70XWftPAGS6Vli0/Kbh
++o6sLj486BpaS2cwSpCR91tGpSL0+ahYGOPNTZBvtOeRHhjkTjtIR/0sz1nM
+cR3x9157JphDN0hFmuAm64x4lYNLDGmMk1S6BpuruOImf6IUdfTJlSrUJYvZ
+7zr/XGur5w9u3mgf3/PtsFI+Zm1sX80khG3Ys0SoV4szK21gsmOqW882aUC7
+I0onso9uRWow28GcETjC+2UJ512Z0AVboK2uRdeIXFouzhWWb7pEDRe5Qvi2
+MgEeErFD7EK7XWNKIif+yCx7iiSivRMHt066m61zRL+YACtVjFYZflhmDJro
+hW3197pU+sUO7LyZpgKPxj06DD5PIG8ElhjDZsE+Hs6FZHfpeemsbl0fCbHX
+Z//xuYvceI1sXyIhYKhL0rW0sNzR74AhJ9tPtQzxP9DTS/ZzI1q4XuF++VX0
+8U6JvDWvVMwzK3wipwO5Sn7MlK0vPFyMdeSNFcBHFGentPhrkWC1XHRjxQxn
+6imZbxHvez+Sn63Vn5eSgo6SozkdP9KJq+1Fre/0EXV7s7HOJ9i5uLuBS4vk
+mArRicX+ym4siPoAE99E2md+nCZ7Xsh0FolZfjoPhFoweW8vNubwpvPQcf7g
+bzCcScU0a4Uu4MFGRY/IEqEGU493tJ8CnzGunhnj7M1+6QSgMr3CxAlc070I
+i9TZXg+4wDjWJ7klxpjHkZpGctMWkMcj54vLfcfa3g6iGVWrtf33rmwtYC/B
+HM9c34FWCyc=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

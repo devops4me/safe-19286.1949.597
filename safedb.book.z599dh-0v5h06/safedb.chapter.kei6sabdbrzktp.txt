@@ -1,0 +1,23 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Sat Oct 12 20:12:41 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+ddyOGNUO7GDrFoGAj85SbOaU4q0Mn60TMrN/zi79P3rSdacxLVDb5YRWAC0y
+yOC0cRzq0ztv3UeMsGv81Rj+XPhhFOPA8FoKRap6eH7yS07Pl5zmBiM+4sIf
+2lB7NF1d6E1eaC7sQGFUfI05xAMmpeuoNX5xUWh8TsnUZ1CDoP57gQ67r33R
+6iUYCfpRRRkrBe677iXvSuMz25aCB5fi+dwakiCZQnAd8k7lE99hvBPAGGG6
+Qng+w4eyiAreon2Nt08u4reDd+FhU8hGEtmIVNTH8FXrDYHPTL9foN5SS5ww
+k4zSVG5AgQYX9zlDZ30vaPKs2y6m1+YpZjhoZnt3DkpCjKNRdZ1zXUZ2x2rd
+76wbCw7Ozot86QewVeaQsjjTqiUR7gA20wmoTaKh3xPhikrBoKOoV1+b/cRB
+Wb8nQ9S4nQbayDm7aQizLPABdrKUDeOsXPjm5nR3bliFpjJyatUgq0jSYF34
+LuMrACFvXfbJsHLafgb+5DgmjeiU4G7ADK6g/5F5QhhA0uS/6WZvSLd/Y17w
+Ua7QvWXwDaUMHhtyUAD0ypRTDpwMh6eBN9ui
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
