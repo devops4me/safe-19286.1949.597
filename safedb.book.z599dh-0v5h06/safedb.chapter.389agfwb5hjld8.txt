@@ -1,0 +1,74 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Fri Nov 1 11:06:08 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+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
+a9fDjpQqHTS3m4FJd+R0Bg3d0qc=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
