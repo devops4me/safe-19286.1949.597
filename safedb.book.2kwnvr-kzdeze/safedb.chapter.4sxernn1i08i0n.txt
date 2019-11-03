@@ -1,0 +1,23 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := 2kwnvr-kzdeze
+Time Created := Sun Nov 3 00:18:45 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+WTqyA07rGMPCUUZ3FzosVtqvD+4V7OlAy50zZaHn18putunw2vtsrnwQhfPY
+8sJa5Cgd8Tc2VMn9Wr0ZawB8SuDEkID18NIWyNlj8uFYZmjrABgS6nHf5ys3
+Q1gYRf1sYp+JEkOvKzl0+SMR/XaPUoxrTEYm7s4VE/xhp1IoCmOaynubJdRu
+SZ+W+sJquCSYOKiCGE/1zjFBEBCeRWZveGQYL2fb8sBvAg0hUmb5JjcfHnKl
+5NE3j5U2C310u67zJ5F54d6fhqi6dWFHW9pDzKYzvLfwjUr0Yez7Wznf1Dzi
+rg99R7qP9rJnAClyl/6BCxjHFfTm1f6SSPpJ9amWr5XoUjDH/Es04V93+hse
+fvHJWJdfIXKWX09FfZb6BZ89lg7mfBt4BygkWxwuA5TcdUW8ovFk+lnjLlWv
+ZX7doo5CerRhSZM7SFdVl7Ambdxzd78mJfBe18VMO7hYfC5i2m9dpixuAlmM
+WaLm5wNX1vMG/FP56HUxV9DrLO9rY/YRQZL4Ecd20UKlTT4PJrPnW2Ym46tv
+t5TGi0R6vllA96qL/UiGU7jvIOJSLidwNVGzoXbGsjhoxX9tStuvXfUaRA==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,37 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := 2kwnvr-kzdeze
+Time Created := Sun Nov 3 00:18:45 2019
+Safe Version := safedb-v0.8.1003
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+7hHFGOoP11Axa66NSDAWVr0uQLe+R0BaR/2Pe4Mi/pc3tvKyxtM9LkZ83yA/
+BYPd2Y1ggUUb64VR5MY/6SJGj0lfVCqxIRxJsMCtSf2aYThKUf0lm8Hx1U66
+RDOUKmMnW9ZpkmRaVc5CEiiBUyj3yfjjq3ludBVyykbcxzyJeiHsPpGFcBpC
+0A8FR0dkCtzHzQFNgnLlNijZpVuBwdhN853/xaaaVlkCwSLFdZYn74G2MPLQ
+zcwUJx9ey42UR7taa3YkfyqtbPwfE7DQb0nZxsbyiIxoiVv0iWYh088P79bJ
+B56J5/Q8M+ZycKe1bAV+qmMCuTkTStyRkenUkIck8+NXOFIZ0u+I2X8SyDcK
+RLxom+CcoOU3pXVhx8/mha6BeDHoXKPELIfdztrXCBDvVV7PThNbZUqNYk5f
+CJ0JIKxCRkZrkY5J4EC5OlmkwEQczjsRjQl87jx8MebTKNGCjyfRRvmRCqcL
+bHp6Vpx5zcWwlkHyLPPGWox4vrW0b1KSdzQN0d72AVU9uc3bUayNzyxb0MPg
+c5Zf2zSlF4kQZn0phnTObNX5wwe7u2cpt7ZlC0cV2M0jB3Avq6OA8w+gHkSp
++/FhzTwBajfwFPMf4CGmnxjIIiu5nC7oROP9XiLpYc5S3PtV7Y8lXskDSmqk
+PytapQSMH8lD9zarpsPNFpz6URI1BnG4fW2W5PPWwBpuK6/chx6MGU4SnRRO
+MV2GEuLq0MmYL+xwFhg/SvB2n0JGnSvUR0RxQMOTUNCByLjsP+OlDKTCDV64
+vKJipCaxry4WoZ/D50uGJYKCCrIH9NHH0xVZVKpSG2RGmcKKbnoviZlsgTIB
+60ISR9WuSjornQgWl1S7YA23pHFi/yh39xz2yWS6/PUnqujh2aw5/Oasj93E
+sQyFqj0lk048uCjvz2u4eMOQKZYDw8DUy5UEjYweB4elQd6jMEn9YAQNfuK4
+7BqZEY6Pz6GT6Pi7vkk/SLp/3Y0O/xh4Uw6TtcKKtOtP3biOT9Jn6OmV3Qid
+38zAEbIdo20qWdABQefdjM/waJYqnKdYELO9tIxK2jOkbh/D/0WknnT04KCE
+0TKwCGgFr0WULIabjJYc1SxAW2n+iOhPz+5VHNimbz07MVTfNyZGew1DhcvA
+FLCVTuWl8X9WJfMKRkGkfgYlWHzqnw2CFY+Oi7tJvuNWM5WbX46qlhdCJCgV
+ZkcdOoo20OqFXEusVvlhl7XpcWZz8jy8pvE4QPnMJ0ID+KfFxROWlqXfbE3Z
+yzuwQIaNuqymsRnviQ7A22Un8GUCtL7yDirHQdSrNxo5bDT2ql3YiZ4o/YUN
+roK4ZDmq++DG70so6Fk/JLXCM6FNRBrpNxbT+XJZvLWahsn8k64KFFFnOuWz
+G1awvUGxB4kNiJH/DjWL5jgzy2gEgx+iOBNRzDblh0/p/1s5YQ==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
