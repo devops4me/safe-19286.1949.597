@@ -1,0 +1,36 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := z599dh-0v5h06
+Time Created := Thu Feb 20 09:52:40 2020
+Safe Version := safedb-v0.9.1000
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+mRPuWXVHqV5TeRKPKzl353vyBK9V21qDPJgNddxV1DawWL6qP+fZ0b0tHZ/C
+EFuke5DEdTmZ28MjOAghhzol2smx6vEbg4FaQTk960wp3yFibIYTKGpTjHBi
+HCbWouivhTTmvIbFoW31nt+Pd7WzAWUYt0Rqi3pmOJwko8u7l1LJAPyY3N5b
+0tzwJ6c4+EDmfet5WbHbIXweCD+ewpvF5iklV1dL3MgwEuG4Z1R/4gQsnJ7n
+VWBYsgamaKbiGvVbAHPAMFZlZ4penc4s+8A6TX79rO4arONFJpGhhp2tIqUn
+td5hd5PSCaUTsq6gTCNZ7u/S98cHxd5SX8nbibDtO642pqrtmY8oh0adtyPl
+ZzfHxfnQvGJPsmZEtgQeXfw28MUwLwbNFTYZ8byEtYdVXO2xyik95w8DBQp2
+zDl7imPsEwff69KU4YrLyzRuEQZwOAdFH+Kyg4CgvNe/K6tXzUbYLcHwapFX
+duSk2wtgzBa2zRj7cUFeWGY2OcksjlRcp00PQVcEmKJ8IMxKq57w1nnVVTjh
+ohlte4aLAc6uClHgZ+XwTj2DQTUsmvfrUaOGUEfaIylMQjAqZ+kt0HqblTw4
+214ZNLOsWh3IcorJ7cvhRVwxPxQHZZGCVOMyCMYFzV8HUe2RLss6gmIYy806
+mUPFBlGPo7hW6WS7ATKDz6V9YNf80GBXBA2AMD8iBL+9m/PT5nHuqGiUPpFc
+YY+QnTYZiZienAMtkFR1B2/MXAy2clZs37+kgzC+o9Y//XJMUFK2beNxH6rg
+Y4Lz50lOZnJtQawSl52P+/NI4wxghWFpFqYPJG7caU7Bg2EkW+FNSj6gSQ0z
+DWPI8Iv8ZloHCjXnJpPiHXjJD19h9p8TZjJzdGSzjnEnC9QwUDjyrp8WBw2w
+zXWmSDC8S3kv1GJEr//9FAkuB1TZjTX40QZglSr7TEe6/Tn2W95BGUywcPN7
+uJAKQ5zIUUK+4jQfVXdDIw61KFDxPhQFs4U0u6nshD7OVNqaHE0OiCF0Wc5f
+CgxYhNGMn68ci+kDPNbc51P4zUCBa7tnyg8O3yOGVti25592gXdJj8ClpMoq
+QRFrNGmxYeFNuJ1F8Yfw2QtbEXlP6BZNdjNjwlVzo8CkKacKxSTonOlTbsFz
+roHwtVpjm8ztT0pR7ci0D44Td1gDIABEAgl6xOcrZsLdmZUV4iO0GGARC4Y8
+94bGLtaVmJVUp8mdznNHbLb0+eHzLHzqt6HF95oCcJvsVpe+/xfICfQDogAq
+g7EKwLJo1QQHwrG9JDAYOXfWOX9CJJiJ6MjWL81btdUuB1LPld/huSnczhi6
+ItUe1V7e5+vZbO+w+jLV5aX6E9Ti8S8KNBHNpNcvlFYb7w==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
